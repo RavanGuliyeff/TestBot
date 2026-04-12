@@ -44,4 +44,4 @@ print("Random Auto Push Bot started...")
 while True:
     append_to_file()
     git_push()
-    time.sleep(random.randint(5, 15))  # 5-15 saniyə arası random interval
+    time.sleep(random.randint(2, 5))  # 2-15 saniyə arası random interval
