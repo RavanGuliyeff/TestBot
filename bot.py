@@ -8,16 +8,16 @@ BRANCH = "main"
 
 # Random mətnlər
 RANDOM_TEXTS = [
-    "Hello world 🚀",
-    "Bug fixed!",
-    "New update coming soon",
-    "Random thought of the day",
-    "Python is awesome 🐍",
-    "Auto commit in progress...",
-    "Another line added",
-    "Keep pushing forward 💪",
-    "Coding mode ON 🔥",
-    "Small change, big impact"
+    "\n",
+    # "Bug fixed!",
+    # "New update coming soon",
+    # "Random thought of the day",
+    # "Python is awesome 🐍",
+    # "Auto commit in progress...",
+    # "Another line added",
+    # "Keep pushing forward 💪",
+    # "Coding mode ON 🔥",
+    # "Small change, big impact"
 ]
 
 def run_git_command(command):
